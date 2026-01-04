@@ -1,0 +1,72 @@
+[
+    {
+        "Key": "UserNotFound",
+        "LocalizedValue": {
+            "en-US": "User not found",
+            "ar-EG": "المستخدم غير موجود"
+        }
+    },
+    {
+        "Key": "InvalidCredentials",
+        "LocalizedValue": {
+            "en-US": "Invalid email or password",
+            "ar-EG": "البريد الإلكتروني أو كلمة المرور غير صحيحة"
+        }
+    },
+    {
+        "Key": "EmailAlreadyExists",
+        "LocalizedValue": {
+            "en-US": "Email already exists",
+            "ar-EG": "البريد الإلكتروني موجود بالفعل"
+        }
+    },
+    {
+        "Key": "ProductNotFound",
+        "LocalizedValue": {
+            "en-US": "Product not found",
+            "ar-EG": "المنتج غير موجود"
+        }
+    },
+    {
+        "Key": "CategoryNotFound",
+        "LocalizedValue": {
+            "en-US": "Category not found",
+            "ar-EG": "الفئة غير موجودة"
+        }
+    },
+    {
+        "Key": "OperationSuccess",
+        "LocalizedValue": {
+            "en-US": "Operation completed successfully",
+            "ar-EG": "تمت العملية بنجاح"
+        }
+    },
+    {
+        "Key": "OperationFailed",
+        "LocalizedValue": {
+            "en-US": "Operation failed",
+            "ar-EG": "فشلت العملية"
+        }
+    },
+    {
+        "Key": "UnauthorizedAccess",
+        "LocalizedValue": {
+            "en-US": "Unauthorized access",
+            "ar-EG": "غير مصرح بالوصول"
+        }
+    },
+    {
+        "Key": "ValidationError",
+        "LocalizedValue": {
+            "en-US": "Validation error occurred",
+            "ar-EG": "حدث خطأ في التحقق"
+        }
+    },
+    {
+        "Key": "InternalServerError",
+        "LocalizedValue": {
+            "en-US": "An internal server error occurred",
+            "ar-EG": "حدث خطأ داخلي في الخادم"
+        }
+    }
+]
